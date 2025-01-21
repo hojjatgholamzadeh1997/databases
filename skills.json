@@ -5,7 +5,10 @@
     "percentage": 40,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Formik.png",
     "resource": "https://formik.org",
-    "details": []
+    "details": [
+      "Installation",
+      "useFormik()"
+    ]
   },
   {
     "id": 2,
@@ -13,7 +16,10 @@
     "percentage": 40,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/shadcn-ui.png",
     "resource": "https://ui.shadcn.com",
-    "details": []
+    "details": [
+      "Installation",
+      "Components"
+    ]
   },
   {
     "id": 3,
@@ -29,7 +35,10 @@
     "percentage": 20,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Jest.png",
     "resource": "https://jestjs.io",
-    "details": []
+    "details": [
+      "Unit testing",
+      "Matchers"
+    ]
   },
   {
     "id": 5,
@@ -37,7 +46,10 @@
     "percentage": 35,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/ESLint.png",
     "resource": "https://eslint.org",
-    "details": []
+    "details": [
+      "Configuration",
+      "Customization"
+    ]
   },
   {
     "id": 6,
@@ -45,7 +57,10 @@
     "percentage": 35,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Babel.js.png",
     "resource": "https://babeljs.io",
-    "details": []
+    "details": [
+      "Configuration",
+      "Customization"
+    ]
   },
   {
     "id": 7,
@@ -53,7 +68,10 @@
     "percentage": 35,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Prettier.png",
     "resource": "https://prettier.io",
-    "details": []
+    "details": [
+      "Configuration",
+      "Customization"
+    ]
   },
   {
     "id": 8,
@@ -61,7 +79,14 @@
     "percentage": 45,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/jQuery.png",
     "resource": "https://jquery.com",
-    "details": []
+    "details": [
+      "Syntax",
+      "jQuery Selectors",
+      "Event Methods",
+      "jQuery Effects",
+      "DOM Manipulation",
+      "jQuery Traversing"
+    ]
   },
   {
     "id": 9,
@@ -69,7 +94,14 @@
     "percentage": 50,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/RegEx.png",
     "resource": "",
-    "details": []
+    "details": [
+      "Flags",
+      "Anchors",
+      "Group & References",
+      "Character Classes",
+      "Lookarounds",
+      "Quantifiers And Alternation"
+    ]
   },
   {
     "id": 10,
@@ -77,7 +109,11 @@
     "percentage": 45,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/JSON.png",
     "resource": "https://www.w3schools.com/js/js_json_intro.asp",
-    "details": []
+    "details": [
+      "Syntax",
+      "JSON.parse()",
+      "JSON.stringify()"
+    ]
   },
   {
     "id": 11,
@@ -93,7 +129,16 @@
     "percentage": 65,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Tailwind%20CSS.png",
     "resource": "https://tailwindcss.com",
-    "details": []
+    "details": [
+      "Syntax",
+      "Breakpoints",
+      "Layout & Grid System",
+      "Classes",
+      "RTL",
+      "Dark Mode",
+      "Forms",
+      "Customization"
+    ]
   },
   {
     "id": 13,
@@ -101,7 +146,18 @@
     "percentage": 70,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Bootstrap.png",
     "resource": "https://getbootstrap.com",
-    "details": []
+    "details": [
+      "Syntax",
+      "Breakpoints",
+      "Containers",
+      "Columns & Rows",
+      "Layout & Grid System",
+      "Classes",
+      "RTL",
+      "Forms",
+      "Components",
+      "Bootstrap Icons"
+    ]
   },
   {
     "id": 14,
@@ -109,7 +165,16 @@
     "percentage": 50,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/npm.png",
     "resource": "https://www.npmjs.com",
-    "details": []
+    "details": [
+      "npm init",
+      "package.json",
+      "package-lock.json",
+      "node_modules folder",
+      "dependency & devDependency",
+      "npm scripts",
+      "npx",
+      "CLI"
+    ]
   },
   {
     "id": 15,
@@ -117,7 +182,13 @@
     "percentage": 45,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/SASS.png",
     "resource": "https://sass-lang.com",
-    "details": []
+    "details": [
+      "Syntax",
+      "Sass Variables",
+      "@import and Partials",
+      "@mixin and @include",
+      "@extend and Inheritance"
+    ]
   },
   {
     "id": 16,
@@ -125,7 +196,13 @@
     "percentage": 65,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/RWD.png",
     "resource": "https://www.w3schools.com/css/css_rwd_intro.asp",
-    "details": []
+    "details": [
+      "The Viewport",
+      "Grid-View",
+      "Media Queries",
+      "Responsive Images",
+      "Responsive Videos"
+    ]
   },
   {
     "id": 17,
@@ -133,7 +210,20 @@
     "percentage": 70,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/CSS3.png",
     "resource": "https://www.w3schools.com/css/default.asp",
-    "details": []
+    "details": [
+      "Syntax",
+      "CSS Selectors",
+      "CSS Comments",
+      "CSS Combinators",
+      "CSS Pseudo-classes",
+      "CSS Pseudo-elements",
+      "CSS Forms",
+      "The !important Rule",
+      "Math Functions",
+      "CSS Animations",
+      "CSS Flexbox",
+      "CSS Grid"
+    ]
   },
   {
     "id": 18,
@@ -141,7 +231,15 @@
     "percentage": 70,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/HTML5.png",
     "resource": "https://www.w3schools.com/html/default.asp",
-    "details": []
+    "details": [
+      "Syntax",
+      "HTML Elements",
+      "HTML Attributes",
+      "HTML Comments",
+      "Semantic Elements",
+      "HTML Forms",
+      "HTML Multimedia"
+    ]
   },
   {
     "id": 19,
@@ -149,7 +247,17 @@
     "percentage": 65,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Markdown.png",
     "resource": "https://www.markdownguide.org/cheat-sheet/",
-    "details": []
+    "details": [
+      "Headings",
+      "Bold and Italic",
+      "Blockquotes",
+      "Lists",
+      "Code",
+      "Horizontal Rules",
+      "Links",
+      "Images",
+      "Tables"
+    ]
   },
   {
     "id": 20,
@@ -157,6 +265,23 @@
     "percentage": 50,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Git.png",
     "resource": "https://git-scm.com",
-    "details": []
+    "details": [
+      "git config",
+      "git init",
+      "git add",
+      "git commit",
+      "git log",
+      "git help",
+      "git checkout",
+      "git clone",
+      "git push",
+      "git pull",
+      "create branch",
+      "switch branch",
+      "delete branch",
+      "git merge",
+      "merge conflict",
+      ".gitignore file"
+    ]
   }
 ]
