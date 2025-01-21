@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "title": "React.js",
+    "title": "React.js 18",
     "percentage": 60,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/React.js.png",
     "resource": "https://react.dev",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "title": "jQuery",
+    "title": "jQuery 3",
     "percentage": 45,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/jQuery.png",
     "resource": "https://jquery.com",
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "title": "JavaScript",
+    "title": "JavaScript (ES6)",
     "percentage": 60,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/JavaScript.png",
     "resource": "https://www.w3schools.com/js/default.asp",
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "title": "Tailwind CSS",
+    "title": "Tailwind CSS 3",
     "percentage": 65,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Tailwind%20CSS.png",
     "resource": "https://tailwindcss.com",
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "title": "Bootstrap",
+    "title": "Bootstrap 5",
     "percentage": 70,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Bootstrap.png",
     "resource": "https://getbootstrap.com",
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "title": "CSS",
+    "title": "CSS3",
     "percentage": 70,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/CSS3.png",
     "resource": "https://www.w3schools.com/css/default.asp",
@@ -137,7 +137,7 @@
   },
   {
     "id": 18,
-    "title": "HTML",
+    "title": "HTML5",
     "percentage": 70,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/HTML5.png",
     "resource": "https://www.w3schools.com/html/default.asp",
