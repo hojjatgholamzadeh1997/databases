@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Formik",
+    "percentage": 40,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Formik.png",
+    "resource": "https://formik.org",
+    "details": []
+  },
+  {
+    "id": 2,
+    "title": "shadcn-ui",
+    "percentage": 40,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/shadcn-ui.png",
+    "resource": "https://ui.shadcn.com",
+    "details": []
+  },
+  {
+    "id": 3,
+    "title": "React.js",
+    "percentage": 60,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/React.js.png",
+    "resource": "https://react.dev",
+    "details": []
+  },
+  {
+    "id": 4,
+    "title": "Jest",
+    "percentage": 20,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Jest.png",
+    "resource": "https://jestjs.io",
+    "details": []
+  },
+  {
+    "id": 5,
+    "title": "ESLint",
+    "percentage": 35,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/ESLint.png",
+    "resource": "https://eslint.org",
+    "details": []
+  },
+  {
+    "id": 6,
+    "title": "Babel.js",
+    "percentage": 35,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Babel.js.png",
+    "resource": "https://babeljs.io",
+    "details": []
+  },
+  {
+    "id": 7,
+    "title": "Prettier",
+    "percentage": 35,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Prettier.png",
+    "resource": "https://prettier.io",
+    "details": []
+  },
+  {
+    "id": 8,
+    "title": "jQuery",
+    "percentage": 45,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/jQuery.png",
+    "resource": "https://jquery.com",
+    "details": []
+  },
+  {
+    "id": 9,
+    "title": "RegEx",
+    "percentage": 50,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/RegEx.png",
+    "resource": "",
+    "details": []
+  },
+  {
+    "id": 10,
+    "title": "JSON",
+    "percentage": 45,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/JSON.png",
+    "resource": "https://www.w3schools.com/js/js_json_intro.asp",
+    "details": []
+  },
+  {
+    "id": 11,
+    "title": "JavaScript",
+    "percentage": 60,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/JavaScript.png",
+    "resource": "https://www.w3schools.com/js/default.asp",
+    "details": []
+  },
+  {
+    "id": 12,
+    "title": "Tailwind CSS",
+    "percentage": 65,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Tailwind%20CSS.png",
+    "resource": "https://tailwindcss.com",
+    "details": []
+  },
+  {
+    "id": 13,
+    "title": "Bootstrap",
+    "percentage": 70,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Bootstrap.png",
+    "resource": "https://getbootstrap.com",
+    "details": []
+  },
+  {
+    "id": 14,
+    "title": "npm",
+    "percentage": 50,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/npm.png",
+    "resource": "https://www.npmjs.com",
+    "details": []
+  },
+  {
+    "id": 15,
+    "title": "SASS (.scss)",
+    "percentage": 45,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/SASS.png",
+    "resource": "https://sass-lang.com",
+    "details": []
+  },
+  {
+    "id": 16,
+    "title": "RWD",
+    "percentage": 65,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/RWD.png",
+    "resource": "https://www.w3schools.com/css/css_rwd_intro.asp",
+    "details": []
+  },
+  {
+    "id": 17,
+    "title": "CSS",
+    "percentage": 70,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/CSS3.png",
+    "resource": "https://www.w3schools.com/css/default.asp",
+    "details": []
+  },
+  {
+    "id": 18,
+    "title": "HTML",
+    "percentage": 70,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/HTML5.png",
+    "resource": "https://www.w3schools.com/html/default.asp",
+    "details": []
+  },
+  {
+    "id": 19,
+    "title": "Markdown",
+    "percentage": 65,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Markdown.png",
+    "resource": "https://www.markdownguide.org/cheat-sheet/",
+    "details": []
+  },
+  {
+    "id": 20,
+    "title": "Git",
+    "percentage": 50,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Git.png",
+    "resource": "https://git-scm.com",
+    "details": []
+  }
+]
