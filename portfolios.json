@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "title": "ساعت هشداردهنده",
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/portfolios/refs/heads/main/images/Alarm%20Clock.jpg",
+    "demoURL": "https://hojjatgholamzadeh1997.github.io/Alarm-Clock/",
+    "githubURL": "https://github.com/hojjatgholamzadeh1997/Alarm-Clock",
+    "download": "https://github.com/hojjatgholamzadeh1997/Alarm-Clock/archive/refs/heads/main.zip",
+    "description": "این مینی پروژه، یک ساعت هشدار است که به آسانی تنظیم شده و در هنگام هشدار به صدا درمی‌آید.",
+    "languages": [
+      {
+        "id": 1,
+        "title": "SCSS",
+        "percentage": "47%",
+        "color": "#C6538C"
+      },
+      {
+        "id": 2,
+        "title": "JavaScript",
+        "percentage": "37%",
+        "color": "#F1E05A"
+      },
+      {
+        "id": 3,
+        "title": "HTML",
+        "percentage": "16%",
+        "color": "#E34C26"
+      }
+    ],
+    "isMini": true
+  },
+  {
+    "id": 2,
     "title": "شمارنده",
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/portfolios/refs/heads/main/images/Counter.JPG",
     "demoURL": "https://hojjatgholamzadeh1997.github.io/Counter/",
