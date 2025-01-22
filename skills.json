@@ -27,7 +27,37 @@
     "percentage": 60,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/React.js.png",
     "resource": "https://react.dev",
-    "details": []
+    "details": [
+      "React JSX",
+      "Function Components",
+      "Class Components",
+      "React Props",
+      "React Events",
+      "React Forms",
+      "Conditional Rendering",
+      "React Hooks",
+      "useState()",
+      "useEffect()",
+      "useContext()",
+      "useRef()",
+      "useCallback()",
+      "useMemo()",
+      "memo()",
+      "Lifting State Up",
+      "Single-page Applications",
+      "react-router-dom",
+      "404 Page",
+      "useParam()",
+      "Nested Routes",
+      "useNavigate()",
+      "useRoutes()",
+      "Outlet",
+      "Custom Hooks",
+      "React Pagination",
+      "Error Boundaries",
+      "Lazy Loading",
+      "React Suspense"
+    ]
   },
   {
     "id": 4,
@@ -36,7 +66,7 @@
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Jest.png",
     "resource": "https://jestjs.io",
     "details": [
-      "Unit testing",
+      "Unit Testing",
       "Matchers"
     ]
   },
@@ -121,7 +151,42 @@
     "percentage": 60,
     "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/JavaScript.png",
     "resource": "https://www.w3schools.com/js/default.asp",
-    "details": []
+    "details": [
+      "Syntax",
+      "Comments",
+      "Variables",
+      "Operators",
+      "Data Types",
+      "Pass by Value & Pass by Reference",
+      "Functions",
+      "Arrays",
+      "Objects",
+      "Events",
+      "Date Objects",
+      "Math Object",
+      "if, else, and else if",
+      "Switch Statement",
+      "For Loop",
+      "For In & For Of",
+      "While Loop",
+      "Break and Continue",
+      "Destructuring",
+      "Errors",
+      "Scope",
+      "Hoisting",
+      "Classes",
+      "Modules",
+      "ES6+ Concepts",
+      "Asynchronous vs Synchronous",
+      "Callback Function",
+      "Promises",
+      "XMLHttpRequest",
+      "Fetch API",
+      "JavaScript HTML DOM",
+      "JS Browser BOM",
+      "Cookies",
+      "Storage"
+    ]
   },
   {
     "id": 12,
@@ -169,9 +234,9 @@
       "npm init",
       "package.json",
       "package-lock.json",
-      "node_modules folder",
-      "dependency & devDependency",
-      "npm scripts",
+      "node_modules Folder",
+      "Dependency & DevDependency",
+      "npm Scripts",
       "npx",
       "CLI"
     ]
@@ -276,12 +341,12 @@
       "git clone",
       "git push",
       "git pull",
-      "create branch",
-      "switch branch",
-      "delete branch",
+      "Create Branch",
+      "Switch Branch",
+      "Delete Branch",
       "git merge",
-      "merge conflict",
-      ".gitignore file"
+      "Merge Conflict",
+      ".gitignore File"
     ]
   }
 ]
