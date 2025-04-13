@@ -1,0 +1,390 @@
+[
+  {
+    "id": 1,
+    "title": "MongoDB",
+    "percentage": 15,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/MongoDB.png",
+    "resource": "https://www.mongodb.com",
+    "details": [
+      "Create Database",
+      "Create Collection",
+      "Insert",
+      "Find",
+      "Update",
+      "Delete",
+      "Query Operators",
+      "Update Operators",
+      "Aggregation Pipelines"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Next.js 14",
+    "percentage": 25,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Next.js.png",
+    "resource": "https://nextjs.org",
+    "details": [
+      "Using Pages Router",
+      "Nested Routes",
+      "Dynamic Routes",
+      "404 Page",
+      "CSS Styling",
+      "Data Fetching",
+      "Pre-rendering",
+      "CSR, SSG, ISR, SSR",
+      "getStaticProps",
+      "getServerSideProps"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Formik",
+    "percentage": 25,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Formik.png",
+    "resource": "https://formik.org",
+    "details": [
+      "Installation",
+      "useFormik()",
+      "Validation using Yup"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "shadcn-ui",
+    "percentage": 25,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/shadcn-ui.png",
+    "resource": "https://ui.shadcn.com",
+    "details": [
+      "Installation",
+      "Components"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "React.js 18",
+    "percentage": 50,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/React.js.png",
+    "resource": "https://react.dev",
+    "details": [
+      "React JSX",
+      "Function Components",
+      "Class Components",
+      "React Props",
+      "React Events",
+      "React Forms",
+      "Conditional Rendering",
+      "React Hooks",
+      "useState()",
+      "useEffect()",
+      "useContext()",
+      "useRef()",
+      "useCallback()",
+      "useMemo()",
+      "memo()",
+      "Lifting State Up",
+      "Single-page Applications",
+      "react-router-dom",
+      "404 Page",
+      "useParam()",
+      "Nested Routes",
+      "useNavigate()",
+      "useRoutes()",
+      "Outlet",
+      "Custom Hooks",
+      "React Pagination",
+      "Error Boundaries",
+      "Lazy Loading",
+      "React Suspense"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Jest",
+    "percentage": 10,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Jest.png",
+    "resource": "https://jestjs.io",
+    "details": [
+      "Unit Testing",
+      "Matchers"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "ESLint",
+    "percentage": 20,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/ESLint.png",
+    "resource": "https://eslint.org",
+    "details": [
+      "Configuration",
+      "Customization"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Babel.js",
+    "percentage": 20,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Babel.js.png",
+    "resource": "https://babeljs.io",
+    "details": [
+      "Configuration",
+      "Customization"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Prettier",
+    "percentage": 20,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Prettier.png",
+    "resource": "https://prettier.io",
+    "details": [
+      "Configuration",
+      "Customization"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "jQuery 3",
+    "percentage": 30,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/jQuery.png",
+    "resource": "https://jquery.com",
+    "details": [
+      "Syntax",
+      "jQuery Selectors",
+      "Event Methods",
+      "jQuery Effects",
+      "DOM Manipulation",
+      "jQuery Traversing"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "RegEx",
+    "percentage": 30,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/RegEx.png",
+    "resource": "",
+    "details": [
+      "Flags",
+      "Anchors",
+      "Group & References",
+      "Character Classes",
+      "Lookarounds",
+      "Quantifiers And Alternation"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "JSON",
+    "percentage": 40,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/JSON.png",
+    "resource": "https://www.w3schools.com/js/js_json_intro.asp",
+    "details": [
+      "Syntax",
+      "JSON.parse()",
+      "JSON.stringify()"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "JavaScript (ES6+)",
+    "percentage": 50,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/JavaScript.png",
+    "resource": "https://www.w3schools.com/js/default.asp",
+    "details": [
+      "Syntax",
+      "Comments",
+      "Variables",
+      "Operators",
+      "Data Types",
+      "Pass by Value & Pass by Reference",
+      "Functions",
+      "Arrays",
+      "Objects",
+      "Events",
+      "Date Objects",
+      "Math Object",
+      "if, else, and else if",
+      "Switch Statement",
+      "For Loop",
+      "For In & For Of",
+      "While Loop",
+      "Break and Continue",
+      "Destructuring",
+      "Errors",
+      "Scope",
+      "Hoisting",
+      "Classes",
+      "Modules",
+      "ES6+ Concepts",
+      "Asynchronous vs Synchronous",
+      "Callback Function",
+      "Promises",
+      "XMLHttpRequest",
+      "Fetch API",
+      "JavaScript HTML DOM",
+      "JS Browser BOM",
+      "Cookies",
+      "Storage"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Tailwind CSS 3",
+    "percentage": 60,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Tailwind%20CSS.png",
+    "resource": "https://tailwindcss.com",
+    "details": [
+      "Syntax",
+      "Breakpoints",
+      "Layout & Grid System",
+      "Classes",
+      "RTL",
+      "Dark Mode",
+      "Forms",
+      "Customization"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Bootstrap 5",
+    "percentage": 45,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Bootstrap.png",
+    "resource": "https://getbootstrap.com",
+    "details": [
+      "Syntax",
+      "Breakpoints",
+      "Containers",
+      "Columns & Rows",
+      "Layout & Grid System",
+      "Classes",
+      "RTL",
+      "Forms",
+      "Components",
+      "Bootstrap Icons"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "npm",
+    "percentage": 40,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/npm.png",
+    "resource": "https://www.npmjs.com",
+    "details": [
+      "npm init",
+      "package.json",
+      "package-lock.json",
+      "node_modules Folder",
+      "Dependency & DevDependency",
+      "npm Scripts",
+      "npx",
+      "CLI"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "SASS (.scss)",
+    "percentage": 30,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/SASS.png",
+    "resource": "https://sass-lang.com",
+    "details": [
+      "Syntax",
+      "Sass Variables",
+      "@import and Partials",
+      "@mixin and @include",
+      "@extend and Inheritance"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "RWD",
+    "percentage": 50,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/RWD.png",
+    "resource": "https://www.w3schools.com/css/css_rwd_intro.asp",
+    "details": [
+      "The Viewport",
+      "Grid-View",
+      "Media Queries",
+      "Responsive Images",
+      "Responsive Videos"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "CSS3",
+    "percentage": 60,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/CSS3.png",
+    "resource": "https://www.w3schools.com/css/default.asp",
+    "details": [
+      "Syntax",
+      "CSS Selectors",
+      "CSS Comments",
+      "CSS Combinators",
+      "CSS Pseudo-classes",
+      "CSS Pseudo-elements",
+      "CSS Forms",
+      "The !important Rule",
+      "Math Functions",
+      "CSS Animations",
+      "CSS Flexbox",
+      "CSS Grid"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "HTML5",
+    "percentage": 60,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/HTML5.png",
+    "resource": "https://www.w3schools.com/html/default.asp",
+    "details": [
+      "Syntax",
+      "HTML Elements",
+      "HTML Attributes",
+      "HTML Comments",
+      "Semantic Elements",
+      "HTML Forms",
+      "HTML Multimedia"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Markdown",
+    "percentage": 55,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Markdown.png",
+    "resource": "https://www.markdownguide.org/cheat-sheet/",
+    "details": [
+      "Headings",
+      "Bold and Italic",
+      "Blockquotes",
+      "Lists",
+      "Code",
+      "Horizontal Rules",
+      "Links",
+      "Images",
+      "Tables"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Git",
+    "percentage": 40,
+    "image": "https://raw.githubusercontent.com/hojjatgholamzadeh1997/skills/refs/heads/main/images/Git.png",
+    "resource": "https://git-scm.com",
+    "details": [
+      "git config",
+      "git init",
+      "git add",
+      "git commit",
+      "git log",
+      "git help",
+      "git checkout",
+      "git clone",
+      "git push",
+      "git pull",
+      "Create Branch",
+      "Switch Branch",
+      "Delete Branch",
+      "git merge",
+      "Merge Conflict",
+      ".gitignore File"
+    ]
+  }
+]
